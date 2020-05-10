@@ -1,9 +1,13 @@
 .contact-area{
     background-image: url("../img/particles.jpg");
-    height: 600px;
+    height: 400px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 
 }
+
+ div.country > img {
+   max-width: 100px;
+ }
